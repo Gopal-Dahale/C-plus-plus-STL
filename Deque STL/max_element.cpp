@@ -1,0 +1,1 @@
+// given array and integer k find maximum for every contiguous subarray of size k
